@@ -1,0 +1,1 @@
+This project implements machine learning models to classify the famous Iris flower dataset. It uses Logistic Regression and Decision Tree classifiers to predict the species of Iris flowers based on the sepal and petal measurements.
